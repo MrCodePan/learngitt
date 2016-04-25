@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"我热爱自己的祖国");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
